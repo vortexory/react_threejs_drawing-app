@@ -106,7 +106,6 @@ export default tseslint.config({
 
 Feel free to reach out if you have any questions or need help:
 
-- **GitHub:** https://github.com/mustafacagri
-- **Linkedin:** [@MustafaCagri](https://www.linkedin.com/in/mustafacagri/)
+- **GitHub:** https://github.com/voretexory/https://github.com/vortexory/react_threejs_drawing-app
 
 Made with ❤️ in 📍 Istanbul, using React ⚛️, Three.js 🌐, EaselJS 🎨, TypeScript 🔧, Vite ⚡, and Lodash 🛠️!
